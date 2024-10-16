@@ -1,0 +1,167 @@
+100 Days Of Coding Challenge!
+
+Day-80 Task:
+Read the following Article about the difference between Full Stack Developer or Software Engineer.
+
+Full Stack Developer or Software Engineer – Which Way to Go? https://roadmap.sh/full-stack/vs-software-engineer
+
+//---------------------------------------------------------------------------------------------------------------
+
+Full Stack Developer or Software Engineer – Which Way to Go?
+
+The article "Full Stack Developer or Software Engineer – Which Way to Go?" compares the two roles to help professionals choose the best career path.
+It covers key differences in responsibilities, skills, and job focus. Full Stack Developers are versatile, working on both frontend and backend development,
+while Software Engineers are more focused on programming and system design. The article also discusses educational paths, job opportunities,
+and salary expectations, helping individuals understand which role aligns better with their interests and career goals.
+
+
+Who is a Full Stack Developer?
+
+A full stack developer is a professional who has expertise in both front-end and back-end development.
+They have a holistic understanding of how the web operates from the client-side (user interface) to the server-side (database and logic).
+This dual knowledge allows full stack developers to build complete web applications and oversee the entire development process.
+
+Front-End Development
+
+Front-end development is concerned with the user-facing part of a web application, focusing on the design, layout, and overall experience.
+Full stack developers working on the front-end are proficient in:
+
+    * HTML, CSS, JavaScript: Core technologies for structuring and styling web pages.
+    * Front-end frameworks: Such as React, Angular, or Vue.js, which help streamline development by providing reusable components and a structured architecture.
+    * Responsive Design: Ensuring that websites work well across different devices and screen sizes.
+    * User Experience (UX) and User Interface (UI) Design: Crafting smooth, intuitive experiences for users.
+
+Back-End Development
+
+Back-end development deals with the server, database, and application logic that powers the front-end. Full stack developers handle:
+
+    * Server-Side Languages: Such as Node.js, Python, Ruby, PHP, or Java.
+    * Databases: Knowledge of SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases for data storage and management.
+    * API Development: Creating RESTful or GraphQL APIs that allow the front-end to communicate with the server.
+    * Authentication & Security: Managing user authentication, authorization, and ensuring data security.
+    * Server Management: Understanding how to deploy and maintain applications on servers or cloud platforms like AWS or Azure.
+
+Full Stack Developers’ Skills
+
+Full stack developers need to be versatile, with expertise in multiple technologies:
+
+    * Front-end and back-end languages.
+    * Version control systems like Git.
+    * Database management.
+    * Deployment and cloud services.
+    * Problem-solving and debugging across the stack.
+
+//-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Who is a Software Engineer?
+A software engineer designs, develops, tests, and maintains software systems.
+Their work can span various domains, including web development, mobile applications, embedded systems, and more.
+Software engineers generally specialize in either application software or systems software, with a focus on solving complex problems using software tools.
+
+Application Software Engineers
+Application software engineers create software programs that perform specific tasks for end users. They typically develop:
+
+    * Desktop applications (e.g., word processors, games).
+    * Mobile apps.
+    * Web applications. They focus on creating user-friendly software that fulfills customer requirements.
+
+Systems Software Engineers
+
+Systems software engineers work on the infrastructure and core systems that allow other software to run. They often:
+
+    * Develop operating systems.
+    * Work on device drivers.
+    * Create software for networking, hardware management, and database management systems.
+    Systems engineers ensure that hardware and software components work efficiently together.
+
+Software Engineers’ Skills
+
+    * Strong programming knowledge in languages such as Java, C++, Python, or Go.
+    * Algorithm design and data structures.
+    * Software architecture and design patterns.
+    * Problem-solving, debugging, and optimizing code.
+    * Understanding of low-level systems (for systems engineers) or user-facing applications (for application engineers).
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Full Stack Developer vs Software Engineer: Key Differences to Consider
+
+Focus and Expertise
+
+    * Full Stack Developers: Have a broader scope, spanning both front-end and back-end development, and focus on web technologies.
+    * Software Engineers: Can specialize in specific fields (e.g., mobile apps, systems engineering)
+    and tend to be more focused on designing software that operates efficiently across devices and systems.
+
+Accessibility and Entry Point
+
+    * Full Stack Developer: Offers a lower barrier to entry for those interested in web development,
+    as it involves mastering a few key technologies (e.g., JavaScript, HTML, CSS, Node.js).
+    * Software Engineer: Requires a deeper understanding of computer science concepts, including data structures, algorithms, and low-level programming.
+    The path may involve a more formal education, such as a computer science degree.
+
+Common Full Stack Developer and Software Engineer Skills
+Both full stack developers and software engineers share skills such as:
+
+    * Programming: Proficiency in programming languages and frameworks.
+    * Version Control: Familiarity with Git and GitHub.
+    * Problem-Solving: Strong analytical thinking to solve complex technical problems.
+    * Collaboration: Ability to work in teams and communicate effectively with other developers, designers, and stakeholders.
+    * Debugging: Competence in identifying and fixing bugs.
+
+//---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Collaboration and Teamwork
+    
+    * Full Stack Developers: Often collaborate closely with front-end and back-end teams, as they work across the entire development stack.
+    They are generalists and can fill multiple roles in a project.
+    * Software Engineers: Depending on their specialization, software engineers may collaborate with hardware engineers, database administrators, and other specialists.
+    Their work is more domain-specific.
+
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Technical Knowledge
+    
+    * Full Stack Developers: Focus on web technologies and need proficiency in HTML, CSS, JavaScript, databases, and servers.
+    * Software Engineers: Require a broader understanding of computer science, including algorithms, data structures, memory management, and complex software design.
+
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Lifelong Learning
+
+Both professions demand continuous learning, but:
+
+    * Full Stack Developers: Need to stay updated with new web technologies, frameworks, and best practices.
+    * Software Engineers: Must keep pace with advances in software development methodologies, programming languages, and systems architecture.
+
+//-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Job Description
+
+    * Full Stack Developer: Primarily focused on web applications, handling both front-end and back-end tasks,
+    and developing complete solutions for websites and web-based applications.
+    * Software Engineer: Responsible for designing, testing, and maintaining software systems that could span various platforms,
+    from web to mobile, desktop, and embedded systems.
+
+//-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Full Stack Developer vs Software Engineer Salaries
+
+The salary for both roles varies by location, experience, and industry. Typically:
+
+    * Full Stack Developers: Can earn a competitive salary, especially with demand for full-stack skills in startups and small companies.
+    * Software Engineers: Tend to command higher salaries, especially in specialized fields like systems engineering, embedded software, and enterprise-level development.
+
+//-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How Do I Become a Full Stack Developer or Software Engineer?
+
+    * Full Stack Developer: You can start by learning front-end and back-end technologies. Focus on web development and gain experience in frameworks,
+    databases, and version control. Projects, bootcamps, and online resources can help build practical skills.
+
+    * Software Engineer: Requires a stronger foundation in computer science, often gained through a degree.
+    Learn programming languages, algorithms, and data structures. Gaining experience through internships, open-source projects, or contributing to large-scale systems is crucial.
+
+Conclusion:
+
+In essence, both paths offer rewarding careers but cater to different strengths and interests.
+Full stack developers are jacks of all trades in web development, while software engineers are specialists who may work on various types of software and systems.
